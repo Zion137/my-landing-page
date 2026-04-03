@@ -1,1 +1,1 @@
-# yungzeemedi-landing-page
+# yungzeemedia-landing-page
